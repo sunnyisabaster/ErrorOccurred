@@ -20,6 +20,6 @@ AttributeError: module 'matplotlib' has no attribute 'image'
 import matplotlib
 import matplotlib.image as img
 
-*读取的文件必须是转换成HU值之后的raw文件。（文件尺寸：1024*1024*300， 数据类型：int16）
+* 读取的文件必须是转换成HU值之后的raw文件。（文件尺寸：1024*1024*300， 数据类型：int16）
 
-*检测后的结果会相应保存在运行程序的当前目录下，请妥善保存，下次再检测raw文件会将上一次生成的结果（png格式）覆盖掉。
+* 检测后的结果会相应保存在运行程序的当前目录下，请妥善保存，下次再检测raw文件会将上一次生成的结果（png格式）覆盖掉。
