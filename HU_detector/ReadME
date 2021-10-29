@@ -1,0 +1,4 @@
+打包程序参考2篇文章：
+1. pyinstaller https://blog.csdn.net/libaineu2004/article/details/112612421
+2. pip install cx_freeze
+二者都需在虚拟环境中进行，否则打包后的程序很大且会报很麻烦的错误。
