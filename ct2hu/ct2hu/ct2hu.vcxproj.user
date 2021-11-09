@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>F:\均整度\Filtered_data\08-20\Catphan_80kV_1.0mAs_Focus-S_PGA6_Binning2\calibrated_raw_data.raw F:\均整度\Filtered_data\08-20\Catphan_80kV_1.0mAs_Focus-S_PGA6_Binning2\ct_HU.raw 1024 1024 300 0.25 0.25 1</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>F:\均整度\Filtered_data\08-20\Catphan_80kV_1.0mAs_Focus-S_PGA6_Binning2\calibrated_raw_data.raw F:\均整度\Filtered_data\08-20\Catphan_80kV_1.0mAs_Focus-S_PGA6_Binning2\ct_HU.raw 1024 1024 300 0.25 0.25 1</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

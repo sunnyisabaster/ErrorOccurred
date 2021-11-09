@@ -1,0 +1,17 @@
+﻿  ct2hu.cpp
+F:\均整度\new_data\ct2hu\ct2hu\NoBed_smooth_80kV_1.0mAs_Focus-S_PGA6_Binning2.h(33,8447): warning C4305: “初始化”: 从“double”到“float”截断
+F:\均整度\new_data\ct2hu\ct2hu\NoBed_smooth_80kV_1.0mAs_Focus-S_PGA6_Binning2.h(93,123): warning C4305: “初始化”: 从“double”到“float”截断
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(56,35): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(56,24): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(57,35): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(57,24): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(58,37): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(58,26): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(185,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(185,22): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(186,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(186,22): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(199,16): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(202,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\均整度\new_data\ct2hu\ct2hu\ct2hu.cpp(65,6): warning C4101: “real_index”: 未引用的局部变量
+  ct2hu.vcxproj -> F:\均整度\new_data\ct2hu\x64\Debug\ct2hu.exe
